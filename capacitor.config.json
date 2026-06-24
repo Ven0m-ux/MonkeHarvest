@@ -1,0 +1,10 @@
+{
+  "appId": "com.monkeharvest.app",
+  "appName": "MonkeHarvest",
+  "webDir": "www",
+  "bundledWebRuntime": false,
+  "server": {
+    "url": "https://sarvadpaygude06--microgreens-control-center.retool.app/",
+    "cleartext": false
+  }
+}
